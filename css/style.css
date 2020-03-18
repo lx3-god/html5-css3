@@ -1,0 +1,37 @@
+body {
+	background: #62EFD1;
+	margin-left: 50px;
+}
+
+header {
+	margin-top: 45px;
+}
+
+h1 {
+	color: red;
+	font-family: fantasy;
+}
+
+h2 {
+	font-family: fantasy;
+}
+
+p {
+	font-size: 18px;
+	margin-right: 200px;
+}
+
+.img_serv {
+	margin-bottom: 10px;
+	width: 300px;
+}
+
+.img-cont {
+	width: 220px;
+}
+
+footer {
+	font-family: arial;
+	text-align: right;
+	margin-bottom: -16px;
+}
